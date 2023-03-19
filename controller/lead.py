@@ -1,18 +1,18 @@
-# Lead controller implementation.
+# Contact controller implementation.
 
 
-# Create lead.
-def create_lead():
-  print 'Lead creation done.'
+# Create Contact.
+def create_Contact():
+  print 'Contact creation done.'
 
-# Update lead.
-def update_lead():
-  print 'Lead update done.'
+# Update Contact.
+def update_Contact():
+  print 'Contact update done.'
 
-# Get lead.
-def get_lead():
-  print 'Get lead done.'
+# Get Contact.
+def get_Contact():
+  print 'Get Contact done.'
 
-# Delete lead.
-def delete_lead():
-  print 'Delete lead done.'
+# Delete Contact.
+def delete_Contact():
+  print 'Delete Contact done.'
