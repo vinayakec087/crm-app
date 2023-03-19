@@ -7,4 +7,13 @@ def create_contact():
 
 # Update contact.
 def update_contact():
-  print 'Contact update done.
+  print 'Contact update done.'
+
+    # get contact
+
+  def get_contact()
+    print 'conatct get done.'
+
+    # remove contact.
+def remove_contact():
+  print 'Contact remove done.'
